@@ -17,7 +17,7 @@
 
 下面我讲述下思路过程[GitHub代码点击此处](https://github.com/alicelmx/wechat_public_spider)：
 ### ***主体思路***
-- 通过微信合作方搜狗搜索引擎（http://weixin.sogou.com/），发送相应请求来间接抓取，可以实现两种检索方式，如下图：搜文章和搜公众号。
+- 通过[微信合作方搜狗搜索引擎](http://weixin.sogou.com/)发送相应请求来间接抓取，可以实现两种检索方式，如下图：搜文章和搜公众号。
 
 输入公众号ID，获取爬虫起始地址
 ```
